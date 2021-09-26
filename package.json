@@ -1,7 +1,7 @@
 {
-  "name": "djs13-examples",
+  "name": "YATO",
   "version": "0.0.1",
-  "description": "Example code for discord.js version 13 (latest)",
+  "description": "Example Economy for discord.js version 13 (latest)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
