@@ -1,4 +1,4 @@
-const TOKEN = ""
+const TOKEN = "ODkxOTU0NDk0NTI5NzU3MTk0.YVF3Ww.o0XnxdA5VACdO_oMRLDnPuNImIU"
 const { Client, Intents, MessageEmbed, Permissions } = require("discord.js");
 const client = new Client({
   intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]
